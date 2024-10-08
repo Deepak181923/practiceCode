@@ -1,2 +1,2 @@
 # practiceCode
-To practice Typescript with MERN
+To practice Typescript with MERN <br> Author: Deepak Sharma
